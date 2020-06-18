@@ -1,0 +1,12 @@
+#code {
+  width: 500px;
+  height: 300px;
+  padding: 20px;
+  line-height: 1.5em;
+}
+#previewFrame {
+  width: 500px;
+  padding: 20px;
+  height: 200px;
+  border: 1px solid black;
+}
